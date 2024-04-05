@@ -1,3 +1,9 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: #2f3640;
+}
+
 .container{
     display: flex;
     flex-direction: column;
@@ -51,7 +57,7 @@
     text-align: center;
     border-color:#ccc;
     margin-top: 10px;
-    gap: 10px;
+    gap: 5px;
 }
 
 .days{
